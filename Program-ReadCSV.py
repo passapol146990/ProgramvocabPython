@@ -1,7 +1,7 @@
 from tkinter import*
 from tkinter import ttk
 from tkinter import messagebox
-"""   cd Learn      /       cd Program-ReadCSV    """
+
 
 font1 = ('Angsana New',25)
 font2 = ('Angsana New',20)
